@@ -68,7 +68,7 @@ populacao_indigena: {
          blocks: [
              { title: '', keys: ['PopuInd'] },
         ],
-        defaultColor: '#000000',   // Cor para valores < 1
+        defaultColor: '#7977779b', // Cor para categorias não mapeadas ou nulas
         activeByDefault: false
 },
 
